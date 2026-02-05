@@ -105,10 +105,7 @@ function App() {
               </>
             )}
           </h1>
-          <p>Happy Birthday my darling Shannuga 🎂😘
-Every day, my love for you grows deeper.
-I promise to always support your dreams, your struggles, and your happiness.
-You are never alone, because I’m always with you ❤️✨  💗</p>
+          <p></p>
         </section>
 
         <Countdown
