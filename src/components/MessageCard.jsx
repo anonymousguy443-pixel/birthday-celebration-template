@@ -13,19 +13,26 @@ function MessageCard({ isActive }) {
   const curtainHintRef = useRef(null);
   const messageContentRef = useRef(null);
 
-  const message = `[Recipient Name],
+  const message = `My darling Shannu ❤️,
 
-Your personalized birthday message goes here.
+My love for you grows stronger day by day.
+With every passing moment, I love you more and more.
 
-You can write multiple paragraphs to express your feelings,
-share memories, and make this special day even more memorable.
+I promise to always support your dreams,
+your struggles,
+and your happiness.
 
-This template supports multiple lines and formatting,
-so feel free to customize it completely to fit your style.
+Nenu okkadanine ani eppudu anukoku bujjiga,
+because I’m always with you ❤️✨💗
 
-Happy Birthday! 🎉
+You are my happiness,
+my sukoon,
+my headache too 😜,
+and my forever 💕✨
 
-— [Your Name]`;
+Once again, Happy Birthday my love 🎂🎉
+
+– Yours Dudu ❤️`;
 
   // Handle page transitions
   useEffect(() => {
